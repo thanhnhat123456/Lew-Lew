@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Hoa à!',
-    introDesc: `Trăng treo lơ lửng giữa trời
+    introDesc: `Trăng treo lơ lửng giữa trời/
     Hoa hâm tưng tửng đời này ai thương?`,
     btnIntro: 'hihi',
     title: 'Thích dỗi hông hả 😙',
